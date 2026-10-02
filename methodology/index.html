@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#050505">
+  <meta name="description" content="A lightweight explanation of how Watchkind reads and scores watches.">
+  <link rel="canonical" href="https://watchkind.co/methodology/">
+  <title>Watchkind Methodology</title>
+  <link rel="stylesheet" href="/assets/css/watch-pages.css">
+  <script src="/assets/js/watchkind.js"></script>
+</head>
+<body>
+  <header class="shell nav">
+    <a class="brand" href="/"><img src="/assets/watchkind-logo.png" alt=""><span>WATCHKIND</span></a>
+    <a class="navlink" href="/watches/">Scored watches</a>
+  </header>
+  <main class="shell section method">
+    <div class="eyebrow">Methodology · public overview</div>
+    <h1 style="margin-top:14px;font-size:clamp(52px,8vw,88px)">How Watchkind reads a watch.</h1>
+    <p style="font-size:21px;color:#d0d0cb">Enough transparency to understand the score — without turning the public experience into technical documentation.</p>
+
+    <h2>Absolute Quality</h2>
+    <p>The core Watchkind Score currently combines eight areas: Wearability, Movement, Engineering, Build, Design, Originality, Ownership and Versatility.</p>
+    <p><strong style="color:#fff">Price and personal context are excluded from Absolute Quality.</strong> This prevents a cheap watch from automatically becoming a better watch and prevents a personally unsuitable watch from changing its underlying quality score.</p>
+
+    <h2>Versioned, deterministic outputs</h2>
+    <p>The current engine is <strong style="color:#fff">WKALG-0.1A</strong>. For the same validated inputs and algorithm version, the score is deterministic. As Watchkind improves its data, taxonomy and calibration, future algorithm versions may produce different outputs.</p>
+
+    <h2>Value and context stay separate</h2>
+    <ul>
+      <li><strong style="color:#fff">Value</strong> compares quality with market price expectations. It is currently a provisional layer.</li>
+      <li><strong style="color:#fff">Context</strong> can later account for wrist, budget, market and use case. A great watch can still be wrong for a particular person.</li>
+      <li><strong style="color:#fff">Robustness</strong> tests whether rankings survive plausible uncertainty in weights and evidence-derived scores.</li>
+    </ul>
+
+    <h2>Current limitation</h2>
+    <p>Watchkind is still in calibration. The current baseline is intentionally small and heterogeneous, so scores should be read as versioned intelligence with disclosed limitations — not as universal truth.</p>
+
+    <div class="actions" style="margin-top:40px">
+      <a class="btn primary" href="/watches/">Explore scored watches</a>
+      <a class="btn" href="/">Back to Watchkind</a>
+    </div>
+  </main>
+  <footer class="shell footer"><div><strong>WATCHKIND</strong> · Find your kind.</div><div>Public methodology · WKALG-0.1A</div></footer>
+  <script>WatchkindTracking.capture("methodology_page_view",{algorithm_version:"WKALG-0.1A"});</script>
+</body>
+</html>

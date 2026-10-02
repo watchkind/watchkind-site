@@ -1,0 +1,40 @@
+{
+  "id": "WK-V000001",
+  "slug": "tissot-prx-powermatic-80",
+  "short_slug": "prx",
+  "brand": "Tissot",
+  "model": "PRX Powermatic 80 40mm",
+  "reference": "T137.407.11.041.00",
+  "dial": "Blue",
+  "score": 79.28,
+  "score_display": 79,
+  "algorithm_version": "WKALG-0.1A",
+  "verdict": "Design-first everyday Swiss automatic with real-world fit trade-offs.",
+  "insights": [
+    {
+      "label": "Design + originality",
+      "headline": "Familiar does not automatically mean derivative.",
+      "text": "The PRX scores strongly for visual coherence and own-lineage originality. Its modern integrated-bracelet identity traces back to Tissot's own 1978 design language."
+    },
+    {
+      "label": "Movement",
+      "headline": "80 hours is useful — but it is not the whole movement.",
+      "text": "The long reserve changes real ownership behaviour. The full movement score stays in the high 70s because accuracy, architecture and serviceability are solid rather than exceptional."
+    },
+    {
+      "label": "Wearability",
+      "headline": "40 mm is not the whole fit story.",
+      "text": "Integrated first links push effective wrist span to roughly 51.5 mm, so the watch can wear broader than its nominal diameter suggests and offers less strap flexibility."
+    }
+  ],
+  "hero": {
+    "src": "https://www.tissotwatches.com/dw/image/v2/BKKD_PRD/on/demandware.static/-/Sites-Tissot-Catalogue/default/dw95c4331d/product-pictures/63f42767-a9f5-4cdd-b952-8ea7b82b7e0c_T137-407-11-041-00_shadow.png?sh=800%2Cgravity%3Dcenter&sm=fit&sw=800",
+    "source_url": "https://www.tissotwatches.com/en-in/T1374071104100.html",
+    "source_label": "Product image: Tissot"
+  },
+  "brief": {
+    "path": "/briefs/prx/",
+    "version": "v4.1",
+    "drive_file_id": "1uJXDH3ML4V0fULbhs3_AWlwjrDHnck3i"
+  }
+}
