@@ -1,0 +1,38 @@
+{
+  "slug": "casio-g-shock-gw-5000u",
+  "short_slug": "gw5000u",
+  "brand": "Casio G-Shock",
+  "model": "GW-5000U-1",
+  "reference": "GW-5000U-1",
+  "variant": "Black / positive LCD",
+  "score": 86.63,
+  "score_display": 87,
+  "algorithm_version": "WKALG-0.1A",
+  "verdict": "Built to remove ownership friction, not to win a finishing contest.",
+  "insights": [
+    {
+      "label": "Design + originality",
+      "headline": "The square is not retro styling. It is lineage.",
+      "text": "The GW-5000U preserves a design language G-Shock established in 1983. Its familiarity comes from authorship, not imitation."
+    },
+    {
+      "label": "Movement + engineering",
+      "headline": "No mechanical movement. No problem.",
+      "text": "Tough Solar, Multi Band 6 and quartz accuracy create a highly efficient technical solution with very little routine intervention."
+    },
+    {
+      "label": "Wearability + versatility",
+      "headline": "Big numbers. Light experience.",
+      "text": "The case is substantial on paper, but 74 g and a soft strap keep wearability strong. Its practical range is huge; its formal range is not."
+    }
+  ],
+  "hero": {
+    "src": "/assets/watches/gw5000u-snapshot-hero.png",
+    "source_label": "Watchkind Snapshot · 01/05"
+  },
+  "brief": {
+    "path": "/briefs/gw5000u/",
+    "version": "v1.0",
+    "drive_file_id": "1X3Gd0BX6G3poy4_CbVNhJl_M8Mu4rNfA"
+  }
+}
